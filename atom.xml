@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[hellove]]></title>
+  <link href="http://hellove1985.github.io/atom.xml" rel="self"/>
+  <link href="http://hellove1985.github.io/"/>
+  <updated>2013-08-01T23:53:35+08:00</updated>
+  <id>http://hellove1985.github.io/</id>
+  <author>
+    <name><![CDATA[hellove]]></name>
+    <email><![CDATA[hellove#hellove.net]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://hellove1985.github.io/2013/08/01/test/hellove"/>
+    <updated>2013-08-01T23:46:00+08:00</updated>
+    <id>http://hellove1985.github.io/2013/08/01/test/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
